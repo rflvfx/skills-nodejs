@@ -136,3 +136,4 @@
 - Extend coverage — iteration 29 (2026)
 - Add tests — iteration 32 (2026)
 - Polish code — iteration 34 (2026)
+- Update config — iteration 36 (2026)
