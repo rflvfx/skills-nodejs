@@ -155,3 +155,4 @@ bus.emit("user:created", { name: "Ana" });
 - Improve naming — iteration 37 (2026)
 - Improve naming — iteration 42 (2026)
 - Update docs — iteration 46 (2026)
+- Document usage — iteration 51 (2026)
