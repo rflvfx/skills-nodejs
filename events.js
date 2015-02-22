@@ -9,3 +9,4 @@ bus.emit("user:created", { name: "Ana" });
 - Polish code — iteration 4 (2015)
 - Document usage — iteration 7 (2015)
 - Add validation — iteration 8 (2015)
+- Add helper — iteration 25 (2015)
