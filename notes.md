@@ -5,3 +5,4 @@
 - Refactor module — iteration 19 (2015)
 - Add example — iteration 24 (2015)
 - Improve error handling — iteration 29 (2015)
+- Minor cleanup — iteration 39 (2015)
