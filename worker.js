@@ -3,3 +3,4 @@
 - Improve error handling — iteration 18 (2015)
 - Fix typo — iteration 20 (2015)
 - Polish code — iteration 21 (2015)
+- Update docs — iteration 22 (2015)
