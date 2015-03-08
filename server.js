@@ -21,3 +21,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update config — iteration 37 (2015)
 - Fix lint warnings — iteration 45 (2015)
 - Add feature — iteration 53 (2015)
+- Add validation — iteration 56 (2015)
