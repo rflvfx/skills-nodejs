@@ -1,3 +1,4 @@
 - Add example — iteration 11 (2015)
 - Optimize performance — iteration 17 (2015)
 - Improve error handling — iteration 18 (2015)
+- Fix typo — iteration 20 (2015)
