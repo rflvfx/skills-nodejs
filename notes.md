@@ -6,3 +6,4 @@
 - Add example — iteration 24 (2015)
 - Improve error handling — iteration 29 (2015)
 - Minor cleanup — iteration 39 (2015)
+- Polish code — iteration 40 (2015)
