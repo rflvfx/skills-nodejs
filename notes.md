@@ -3,3 +3,4 @@
 - Fix edge case — iteration 10 (2015)
 - Polish code — iteration 14 (2015)
 - Refactor module — iteration 19 (2015)
+- Add example — iteration 24 (2015)
