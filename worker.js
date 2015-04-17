@@ -5,3 +5,4 @@
 - Polish code — iteration 21 (2015)
 - Update docs — iteration 22 (2015)
 - Optimize performance — iteration 26 (2015)
+- Update docs — iteration 27 (2015)
