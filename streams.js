@@ -11,3 +11,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix lint warnings — iteration 35 (2015)
 - Add tests — iteration 38 (2015)
 - Add helper — iteration 41 (2015)
+- Document usage — iteration 43 (2015)
