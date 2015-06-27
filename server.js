@@ -18,3 +18,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Optimize performance — iteration 15 (2015)
 - Update docs — iteration 16 (2015)
 - Fix typo — iteration 34 (2015)
+- Update config — iteration 37 (2015)
