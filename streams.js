@@ -15,3 +15,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix lint warnings — iteration 47 (2015)
 - Improve error handling — iteration 50 (2015)
 - Tweak implementation — iteration 51 (2015)
+- Add example — iteration 54 (2015)
