@@ -15,3 +15,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add example — iteration 5 (2015)
 - Add validation — iteration 9 (2015)
 - Extend coverage — iteration 12 (2015)
+- Optimize performance — iteration 15 (2015)
