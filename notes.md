@@ -8,3 +8,4 @@
 - Minor cleanup — iteration 39 (2015)
 - Polish code — iteration 40 (2015)
 - Update docs — iteration 42 (2015)
+- Add feature — iteration 48 (2015)
