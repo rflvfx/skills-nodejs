@@ -14,3 +14,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add validation — iteration 30 (2015)
 - Optimize performance — iteration 36 (2015)
 - Update dependencies — iteration 44 (2015)
+- Optimize performance — iteration 49 (2015)
