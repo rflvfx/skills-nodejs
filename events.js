@@ -12,3 +12,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add helper — iteration 25 (2015)
 - Tweak implementation — iteration 28 (2015)
 - Add validation — iteration 30 (2015)
+- Optimize performance — iteration 36 (2015)
