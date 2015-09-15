@@ -1,1 +1,2 @@
 - Update docs — iteration 1 (2015)
+- Fix typo — iteration 6 (2015)
