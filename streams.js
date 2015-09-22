@@ -13,3 +13,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add helper — iteration 41 (2015)
 - Document usage — iteration 43 (2015)
 - Fix lint warnings — iteration 47 (2015)
+- Improve error handling — iteration 50 (2015)
