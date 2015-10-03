@@ -7,3 +7,4 @@
 - Optimize performance — iteration 26 (2015)
 - Update docs — iteration 27 (2015)
 - Add example — iteration 31 (2015)
+- Refactor module — iteration 33 (2015)
