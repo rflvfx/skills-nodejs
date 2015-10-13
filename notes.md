@@ -2,3 +2,4 @@
 - Fix typo — iteration 6 (2015)
 - Fix edge case — iteration 10 (2015)
 - Polish code — iteration 14 (2015)
+- Refactor module — iteration 19 (2015)
