@@ -2,3 +2,4 @@
 - Optimize performance — iteration 17 (2015)
 - Improve error handling — iteration 18 (2015)
 - Fix typo — iteration 20 (2015)
+- Polish code — iteration 21 (2015)
