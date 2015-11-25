@@ -10,3 +10,4 @@ bus.emit("user:created", { name: "Ana" });
 - Document usage — iteration 7 (2015)
 - Add validation — iteration 8 (2015)
 - Add helper — iteration 25 (2015)
+- Tweak implementation — iteration 28 (2015)
