@@ -15,3 +15,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 36 (2015)
 - Update dependencies — iteration 44 (2015)
 - Optimize performance — iteration 49 (2015)
+- Fix lint warnings — iteration 52 (2015)
