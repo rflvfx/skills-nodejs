@@ -10,3 +10,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Polish code — iteration 32 (2015)
 - Fix lint warnings — iteration 35 (2015)
 - Add tests — iteration 38 (2015)
+- Add helper — iteration 41 (2015)
