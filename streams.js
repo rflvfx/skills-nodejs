@@ -29,3 +29,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix lint warnings — iteration 38 (2016)
 - Add validation — iteration 40 (2016)
 - Update docs — iteration 41 (2016)
+- Document usage — iteration 43 (2016)
