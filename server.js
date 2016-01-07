@@ -34,3 +34,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Refactor module — iteration 33 (2016)
 - Update docs — iteration 34 (2016)
 - Add example — iteration 35 (2016)
+- Add helper — iteration 36 (2016)
