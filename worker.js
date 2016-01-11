@@ -14,3 +14,4 @@
 - Update config — iteration 22 (2016)
 - Extend coverage — iteration 27 (2016)
 - Document usage — iteration 42 (2016)
+- Fix lint warnings — iteration 48 (2016)
