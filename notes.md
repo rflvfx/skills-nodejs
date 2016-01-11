@@ -18,3 +18,4 @@
 - Tweak implementation — iteration 29 (2016)
 - Document usage — iteration 45 (2016)
 - Improve error handling — iteration 46 (2016)
+- Optimize performance — iteration 49 (2016)
