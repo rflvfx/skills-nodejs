@@ -30,3 +30,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 40 (2016)
 - Update docs — iteration 41 (2016)
 - Document usage — iteration 43 (2016)
+- Fix edge case — iteration 47 (2016)
