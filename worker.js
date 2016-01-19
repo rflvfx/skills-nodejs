@@ -11,3 +11,4 @@
 - Add feature — iteration 46 (2015)
 - Add example — iteration 10 (2016)
 - Fix edge case — iteration 14 (2016)
+- Update config — iteration 22 (2016)
