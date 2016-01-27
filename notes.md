@@ -11,3 +11,4 @@
 - Add feature — iteration 48 (2015)
 - Add example — iteration 55 (2015)
 - Improve naming — iteration 59 (2015)
+- Optimize performance — iteration 8 (2016)
