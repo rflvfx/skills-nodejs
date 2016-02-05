@@ -21,3 +21,4 @@ bus.emit("user:created", { name: "Ana" });
 - Polish code — iteration 6 (2016)
 - Extend coverage — iteration 7 (2016)
 - Fix typo — iteration 31 (2016)
+- Fix lint warnings — iteration 32 (2016)
