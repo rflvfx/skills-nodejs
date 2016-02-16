@@ -24,3 +24,4 @@ bus.emit("user:created", { name: "Ana" });
 - Fix lint warnings — iteration 32 (2016)
 - Add example — iteration 39 (2016)
 - Fix typo — iteration 44 (2016)
+- Polish code — iteration 50 (2016)
