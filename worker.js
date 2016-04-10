@@ -17,3 +17,4 @@
 - Fix lint warnings — iteration 48 (2016)
 - Improve error handling — iteration 52 (2016)
 - Optimize performance — iteration 56 (2016)
+- Improve naming — iteration 59 (2016)
