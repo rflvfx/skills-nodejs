@@ -23,3 +23,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Minor cleanup — iteration 12 (2016)
 - Add validation — iteration 17 (2016)
 - Refactor module — iteration 18 (2016)
+- Extend coverage — iteration 21 (2016)
