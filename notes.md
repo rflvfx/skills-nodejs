@@ -13,3 +13,4 @@
 - Improve naming — iteration 59 (2015)
 - Optimize performance — iteration 8 (2016)
 - Fix edge case — iteration 9 (2016)
+- Update config — iteration 19 (2016)
