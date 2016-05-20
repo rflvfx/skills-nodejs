@@ -25,3 +25,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add feature — iteration 57 (2015)
 - Update docs — iteration 4 (2016)
 - Extend coverage — iteration 13 (2016)
+- Add tests — iteration 15 (2016)
