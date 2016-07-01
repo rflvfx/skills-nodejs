@@ -33,3 +33,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix edge case — iteration 47 (2016)
 - Fix edge case — iteration 51 (2016)
 - Add validation — iteration 53 (2016)
+- Document usage — iteration 54 (2016)
