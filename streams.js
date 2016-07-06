@@ -17,3 +17,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Tweak implementation — iteration 51 (2015)
 - Add example — iteration 54 (2015)
 - Improve error handling — iteration 58 (2015)
+- Add validation — iteration 1 (2016)
