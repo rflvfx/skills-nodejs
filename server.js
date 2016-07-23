@@ -24,3 +24,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add validation — iteration 56 (2015)
 - Add feature — iteration 57 (2015)
 - Update docs — iteration 4 (2016)
+- Extend coverage — iteration 13 (2016)
