@@ -17,3 +17,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 49 (2015)
 - Fix lint warnings — iteration 52 (2015)
 - Tweak implementation — iteration 3 (2016)
+- Fix edge case — iteration 5 (2016)
