@@ -18,3 +18,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add example — iteration 54 (2015)
 - Improve error handling — iteration 58 (2015)
 - Add validation — iteration 1 (2016)
+- Improve error handling — iteration 2 (2016)
