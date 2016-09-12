@@ -21,3 +21,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve error handling — iteration 2 (2016)
 - Document usage — iteration 11 (2016)
 - Minor cleanup — iteration 12 (2016)
+- Add validation — iteration 17 (2016)
