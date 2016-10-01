@@ -25,3 +25,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add example — iteration 39 (2016)
 - Fix typo — iteration 44 (2016)
 - Polish code — iteration 50 (2016)
+- Fix edge case — iteration 58 (2016)
