@@ -31,3 +31,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update docs — iteration 41 (2016)
 - Document usage — iteration 43 (2016)
 - Fix edge case — iteration 47 (2016)
+- Fix edge case — iteration 51 (2016)
