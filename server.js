@@ -26,3 +26,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update docs — iteration 4 (2016)
 - Extend coverage — iteration 13 (2016)
 - Add tests — iteration 15 (2016)
+- Update config — iteration 16 (2016)
