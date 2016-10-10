@@ -22,3 +22,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Document usage — iteration 11 (2016)
 - Minor cleanup — iteration 12 (2016)
 - Add validation — iteration 17 (2016)
+- Refactor module — iteration 18 (2016)
