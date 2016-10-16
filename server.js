@@ -30,3 +30,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update dependencies — iteration 20 (2016)
 - Tweak implementation — iteration 23 (2016)
 - Add validation — iteration 26 (2016)
+- Fix typo — iteration 30 (2016)
