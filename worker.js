@@ -12,3 +12,4 @@
 - Add example — iteration 10 (2016)
 - Fix edge case — iteration 14 (2016)
 - Update config — iteration 22 (2016)
+- Extend coverage — iteration 27 (2016)
