@@ -28,3 +28,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update dependencies — iteration 28 (2016)
 - Fix lint warnings — iteration 38 (2016)
 - Add validation — iteration 40 (2016)
+- Update docs — iteration 41 (2016)
