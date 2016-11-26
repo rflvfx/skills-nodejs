@@ -27,3 +27,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve naming — iteration 24 (2016)
 - Update dependencies — iteration 28 (2016)
 - Fix lint warnings — iteration 38 (2016)
+- Add validation — iteration 40 (2016)
