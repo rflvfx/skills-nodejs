@@ -13,3 +13,4 @@
 - Fix edge case — iteration 14 (2016)
 - Update config — iteration 22 (2016)
 - Extend coverage — iteration 27 (2016)
+- Document usage — iteration 42 (2016)
