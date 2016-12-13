@@ -15,3 +15,4 @@
 - Extend coverage — iteration 27 (2016)
 - Document usage — iteration 42 (2016)
 - Fix lint warnings — iteration 48 (2016)
+- Improve error handling — iteration 52 (2016)
