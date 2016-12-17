@@ -24,3 +24,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 17 (2016)
 - Refactor module — iteration 18 (2016)
 - Extend coverage — iteration 21 (2016)
+- Improve naming — iteration 24 (2016)
