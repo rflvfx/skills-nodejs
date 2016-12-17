@@ -15,3 +15,4 @@
 - Fix edge case — iteration 9 (2016)
 - Update config — iteration 19 (2016)
 - Add example — iteration 25 (2016)
+- Tweak implementation — iteration 29 (2016)
