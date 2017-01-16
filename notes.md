@@ -26,3 +26,4 @@
 - Improve error handling — iteration 27 (2017)
 - Add validation — iteration 43 (2017)
 - Extend coverage — iteration 45 (2017)
+- Fix edge case — iteration 48 (2017)
