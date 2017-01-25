@@ -20,3 +20,4 @@
 - Improve naming — iteration 59 (2016)
 - Extend coverage — iteration 2 (2017)
 - Extend coverage — iteration 3 (2017)
+- Extend coverage — iteration 17 (2017)
