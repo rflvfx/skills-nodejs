@@ -45,3 +45,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Fix lint warnings — iteration 29 (2017)
 - Tweak implementation — iteration 34 (2017)
 - Update dependencies — iteration 46 (2017)
+- Add tests — iteration 50 (2017)
