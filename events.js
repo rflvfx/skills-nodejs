@@ -31,3 +31,4 @@ bus.emit("user:created", { name: "Ana" });
 - Extend coverage — iteration 9 (2017)
 - Add helper — iteration 10 (2017)
 - Add helper — iteration 14 (2017)
+- Add validation — iteration 16 (2017)
