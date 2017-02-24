@@ -38,3 +38,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve error handling — iteration 4 (2017)
 - Fix edge case — iteration 12 (2017)
 - Fix edge case — iteration 22 (2017)
+- Update config — iteration 24 (2017)
