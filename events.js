@@ -41,3 +41,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add validation — iteration 51 (2017)
 - Improve naming — iteration 52 (2017)
 - Fix lint warnings — iteration 54 (2017)
+- Fix edge case — iteration 56 (2017)
