@@ -28,3 +28,4 @@
 - Extend coverage — iteration 45 (2017)
 - Fix edge case — iteration 48 (2017)
 - Add validation — iteration 53 (2017)
+- Improve naming — iteration 55 (2017)
