@@ -38,3 +38,4 @@ bus.emit("user:created", { name: "Ana" });
 - Refactor module — iteration 38 (2017)
 - Refactor module — iteration 42 (2017)
 - Add tests — iteration 44 (2017)
+- Add validation — iteration 51 (2017)
