@@ -35,3 +35,4 @@ bus.emit("user:created", { name: "Ana" });
 - Tweak implementation — iteration 26 (2017)
 - Improve naming — iteration 28 (2017)
 - Add helper — iteration 32 (2017)
+- Refactor module — iteration 38 (2017)
