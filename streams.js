@@ -36,3 +36,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Document usage — iteration 54 (2016)
 - Optimize performance — iteration 1 (2017)
 - Improve error handling — iteration 4 (2017)
+- Fix edge case — iteration 12 (2017)
