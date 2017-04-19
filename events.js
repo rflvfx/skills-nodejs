@@ -26,3 +26,4 @@ bus.emit("user:created", { name: "Ana" });
 - Fix typo — iteration 44 (2016)
 - Polish code — iteration 50 (2016)
 - Fix edge case — iteration 58 (2016)
+- Add helper — iteration 5 (2017)
