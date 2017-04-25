@@ -40,3 +40,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix edge case — iteration 22 (2017)
 - Update config — iteration 24 (2017)
 - Extend coverage — iteration 25 (2017)
+- Update config — iteration 31 (2017)
