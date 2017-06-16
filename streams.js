@@ -37,3 +37,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Optimize performance — iteration 1 (2017)
 - Improve error handling — iteration 4 (2017)
 - Fix edge case — iteration 12 (2017)
+- Fix edge case — iteration 22 (2017)
