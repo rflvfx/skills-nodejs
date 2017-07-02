@@ -19,3 +19,4 @@
 - Optimize performance — iteration 56 (2016)
 - Improve naming — iteration 59 (2016)
 - Extend coverage — iteration 2 (2017)
+- Extend coverage — iteration 3 (2017)
