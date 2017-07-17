@@ -45,3 +45,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix lint warnings — iteration 37 (2017)
 - Add validation — iteration 39 (2017)
 - Extend coverage — iteration 41 (2017)
+- Tweak implementation — iteration 49 (2017)
