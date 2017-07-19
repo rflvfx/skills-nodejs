@@ -22,3 +22,4 @@
 - Add example — iteration 55 (2016)
 - Fix lint warnings — iteration 6 (2017)
 - Fix typo — iteration 13 (2017)
+- Update docs — iteration 18 (2017)
