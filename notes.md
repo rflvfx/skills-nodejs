@@ -29,3 +29,4 @@
 - Fix edge case — iteration 48 (2017)
 - Add validation — iteration 53 (2017)
 - Improve naming — iteration 55 (2017)
+- Polish code — iteration 57 (2017)
