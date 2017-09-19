@@ -43,3 +43,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update config — iteration 31 (2017)
 - Update config — iteration 33 (2017)
 - Fix lint warnings — iteration 37 (2017)
+- Add validation — iteration 39 (2017)
