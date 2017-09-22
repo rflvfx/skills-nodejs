@@ -23,3 +23,4 @@
 - Fix lint warnings — iteration 6 (2017)
 - Fix typo — iteration 13 (2017)
 - Update docs — iteration 18 (2017)
+- Improve error handling — iteration 27 (2017)
