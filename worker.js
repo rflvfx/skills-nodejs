@@ -25,3 +25,4 @@
 - Fix edge case — iteration 20 (2017)
 - Refactor module — iteration 23 (2017)
 - Add helper — iteration 30 (2017)
+- Optimize performance — iteration 35 (2017)
