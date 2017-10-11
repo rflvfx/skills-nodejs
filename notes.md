@@ -31,3 +31,4 @@
 - Improve naming — iteration 55 (2017)
 - Polish code — iteration 57 (2017)
 - Fix lint warnings — iteration 58 (2017)
+- Add feature — iteration 60 (2017)
