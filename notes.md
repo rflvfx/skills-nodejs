@@ -21,3 +21,4 @@
 - Optimize performance — iteration 49 (2016)
 - Add example — iteration 55 (2016)
 - Fix lint warnings — iteration 6 (2017)
+- Fix typo — iteration 13 (2017)
