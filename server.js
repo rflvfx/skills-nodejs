@@ -39,3 +39,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update docs — iteration 57 (2016)
 - Add helper — iteration 60 (2016)
 - Update config — iteration 8 (2017)
+- Fix lint warnings — iteration 11 (2017)
