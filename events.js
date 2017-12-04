@@ -29,3 +29,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add helper — iteration 5 (2017)
 - Fix typo — iteration 7 (2017)
 - Extend coverage — iteration 9 (2017)
+- Add helper — iteration 10 (2017)
