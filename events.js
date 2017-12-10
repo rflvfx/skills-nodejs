@@ -34,3 +34,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add validation — iteration 16 (2017)
 - Tweak implementation — iteration 26 (2017)
 - Improve naming — iteration 28 (2017)
+- Add helper — iteration 32 (2017)
