@@ -28,3 +28,4 @@
 - Optimize performance — iteration 35 (2017)
 - Fix lint warnings — iteration 36 (2017)
 - Add example — iteration 40 (2017)
+- Optimize performance — iteration 47 (2017)
