@@ -34,3 +34,4 @@
 - Add feature — iteration 60 (2017)
 - Extend coverage — iteration 8 (2018)
 - Add tests — iteration 9 (2018)
+- Polish code — iteration 10 (2018)
