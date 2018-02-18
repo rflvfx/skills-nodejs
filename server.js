@@ -60,3 +60,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Optimize performance — iteration 35 (2018)
 - Fix lint warnings — iteration 36 (2018)
 - Update config — iteration 42 (2018)
+- Improve error handling — iteration 52 (2018)
