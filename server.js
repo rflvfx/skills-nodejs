@@ -55,3 +55,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add validation — iteration 23 (2018)
 - Add tests — iteration 25 (2018)
 - Improve naming — iteration 26 (2018)
+- Polish code — iteration 30 (2018)
