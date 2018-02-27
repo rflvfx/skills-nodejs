@@ -48,3 +48,4 @@ bus.emit("user:created", { name: "Ana" });
 - Fix edge case — iteration 27 (2018)
 - Add feature — iteration 32 (2018)
 - Update dependencies — iteration 37 (2018)
+- Improve error handling — iteration 40 (2018)
