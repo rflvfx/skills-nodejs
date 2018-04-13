@@ -40,3 +40,4 @@
 - Fix edge case — iteration 33 (2018)
 - Update config — iteration 41 (2018)
 - Improve naming — iteration 45 (2018)
+- Add validation — iteration 58 (2018)
