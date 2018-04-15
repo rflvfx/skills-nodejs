@@ -58,3 +58,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Polish code — iteration 30 (2018)
 - Update docs — iteration 34 (2018)
 - Optimize performance — iteration 35 (2018)
+- Fix lint warnings — iteration 36 (2018)
