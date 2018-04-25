@@ -32,3 +32,4 @@
 - Refactor module — iteration 12 (2018)
 - Add helper — iteration 14 (2018)
 - Update docs — iteration 21 (2018)
+- Update docs — iteration 24 (2018)
