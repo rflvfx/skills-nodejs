@@ -31,3 +31,4 @@
 - Optimize performance — iteration 47 (2017)
 - Refactor module — iteration 12 (2018)
 - Add helper — iteration 14 (2018)
+- Update docs — iteration 21 (2018)
