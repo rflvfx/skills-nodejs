@@ -33,3 +33,4 @@
 - Fix lint warnings — iteration 58 (2017)
 - Add feature — iteration 60 (2017)
 - Extend coverage — iteration 8 (2018)
+- Add tests — iteration 9 (2018)
