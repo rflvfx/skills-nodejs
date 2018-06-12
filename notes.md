@@ -39,3 +39,4 @@
 - Update config — iteration 18 (2018)
 - Fix edge case — iteration 33 (2018)
 - Update config — iteration 41 (2018)
+- Improve naming — iteration 45 (2018)
