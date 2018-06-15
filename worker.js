@@ -36,3 +36,4 @@
 - Optimize performance — iteration 28 (2018)
 - Add tests — iteration 31 (2018)
 - Improve naming — iteration 38 (2018)
+- Tweak implementation — iteration 43 (2018)
