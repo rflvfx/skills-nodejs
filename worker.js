@@ -38,3 +38,4 @@
 - Improve naming — iteration 38 (2018)
 - Tweak implementation — iteration 43 (2018)
 - Improve naming — iteration 47 (2018)
+- Document usage — iteration 48 (2018)
