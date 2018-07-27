@@ -44,3 +44,4 @@ bus.emit("user:created", { name: "Ana" });
 - Fix edge case — iteration 56 (2017)
 - Improve naming — iteration 6 (2018)
 - Fix lint warnings — iteration 13 (2018)
+- Fix edge case — iteration 20 (2018)
