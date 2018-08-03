@@ -35,3 +35,4 @@
 - Extend coverage — iteration 8 (2018)
 - Add tests — iteration 9 (2018)
 - Polish code — iteration 10 (2018)
+- Improve error handling — iteration 15 (2018)
