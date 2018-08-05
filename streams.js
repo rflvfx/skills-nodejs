@@ -50,3 +50,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update config — iteration 5 (2018)
 - Add feature — iteration 7 (2018)
 - Fix typo — iteration 11 (2018)
+- Fix lint warnings — iteration 17 (2018)
