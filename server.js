@@ -54,3 +54,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Fix lint warnings — iteration 22 (2018)
 - Add validation — iteration 23 (2018)
 - Add tests — iteration 25 (2018)
+- Improve naming — iteration 26 (2018)
