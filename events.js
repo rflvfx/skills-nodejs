@@ -50,3 +50,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update dependencies — iteration 37 (2018)
 - Improve error handling — iteration 40 (2018)
 - Fix edge case — iteration 44 (2018)
+- Add helper — iteration 46 (2018)
