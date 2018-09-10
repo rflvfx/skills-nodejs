@@ -49,3 +49,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Document usage — iteration 3 (2018)
 - Update config — iteration 5 (2018)
 - Add feature — iteration 7 (2018)
+- Fix typo — iteration 11 (2018)
