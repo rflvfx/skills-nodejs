@@ -46,3 +46,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 39 (2017)
 - Extend coverage — iteration 41 (2017)
 - Tweak implementation — iteration 49 (2017)
+- Document usage — iteration 3 (2018)
