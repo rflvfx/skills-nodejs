@@ -50,3 +50,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update config — iteration 1 (2018)
 - Improve error handling — iteration 2 (2018)
 - Add feature — iteration 4 (2018)
+- Improve error handling — iteration 16 (2018)
