@@ -41,3 +41,4 @@
 - Document usage — iteration 48 (2018)
 - Fix typo — iteration 49 (2018)
 - Add tests — iteration 50 (2018)
+- Fix typo — iteration 51 (2018)
