@@ -57,3 +57,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Improve naming — iteration 26 (2018)
 - Polish code — iteration 30 (2018)
 - Update docs — iteration 34 (2018)
+- Optimize performance — iteration 35 (2018)
