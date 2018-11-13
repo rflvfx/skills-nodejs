@@ -36,3 +36,4 @@
 - Add tests — iteration 9 (2018)
 - Polish code — iteration 10 (2018)
 - Improve error handling — iteration 15 (2018)
+- Update config — iteration 18 (2018)
