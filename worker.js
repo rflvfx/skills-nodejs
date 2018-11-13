@@ -29,3 +29,4 @@
 - Fix lint warnings — iteration 36 (2017)
 - Add example — iteration 40 (2017)
 - Optimize performance — iteration 47 (2017)
+- Refactor module — iteration 12 (2018)
