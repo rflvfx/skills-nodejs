@@ -47,3 +47,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Extend coverage — iteration 41 (2017)
 - Tweak implementation — iteration 49 (2017)
 - Document usage — iteration 3 (2018)
+- Update config — iteration 5 (2018)
