@@ -35,3 +35,4 @@
 - Update docs — iteration 24 (2018)
 - Optimize performance — iteration 28 (2018)
 - Add tests — iteration 31 (2018)
+- Improve naming — iteration 38 (2018)
