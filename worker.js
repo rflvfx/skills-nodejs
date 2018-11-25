@@ -39,3 +39,4 @@
 - Tweak implementation — iteration 43 (2018)
 - Improve naming — iteration 47 (2018)
 - Document usage — iteration 48 (2018)
+- Fix typo — iteration 49 (2018)
