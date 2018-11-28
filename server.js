@@ -47,3 +47,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Update dependencies — iteration 46 (2017)
 - Add tests — iteration 50 (2017)
 - Add tests — iteration 59 (2017)
+- Update config — iteration 1 (2018)
