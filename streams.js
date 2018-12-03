@@ -52,3 +52,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix typo — iteration 11 (2018)
 - Fix lint warnings — iteration 17 (2018)
 - Optimize performance — iteration 19 (2018)
+- Fix lint warnings — iteration 29 (2018)
