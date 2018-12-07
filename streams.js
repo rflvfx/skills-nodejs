@@ -56,3 +56,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix edge case — iteration 39 (2018)
 - Fix lint warnings — iteration 53 (2018)
 - Add validation — iteration 55 (2018)
+- Fix typo — iteration 60 (2018)
