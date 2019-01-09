@@ -45,3 +45,4 @@
 - Polish code — iteration 59 (2018)
 - Extend coverage — iteration 3 (2019)
 - Extend coverage — iteration 11 (2019)
+- Polish code — iteration 14 (2019)
