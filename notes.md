@@ -55,3 +55,4 @@
 - Update docs — iteration 42 (2019)
 - Refactor module — iteration 48 (2019)
 - Document usage — iteration 50 (2019)
+- Polish code — iteration 52 (2019)
