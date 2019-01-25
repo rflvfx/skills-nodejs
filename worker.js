@@ -51,3 +51,4 @@
 - Add validation — iteration 25 (2019)
 - Fix edge case — iteration 28 (2019)
 - Add helper — iteration 35 (2019)
+- Polish code — iteration 46 (2019)
