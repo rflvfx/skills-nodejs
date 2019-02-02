@@ -61,3 +61,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 6 (2019)
 - Add example — iteration 7 (2019)
 - Fix typo — iteration 15 (2019)
+- Add validation — iteration 19 (2019)
