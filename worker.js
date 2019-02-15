@@ -46,3 +46,4 @@
 - Extend coverage — iteration 3 (2019)
 - Extend coverage — iteration 11 (2019)
 - Polish code — iteration 14 (2019)
+- Refactor module — iteration 21 (2019)
