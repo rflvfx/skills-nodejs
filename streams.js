@@ -65,3 +65,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve naming — iteration 20 (2019)
 - Improve error handling — iteration 30 (2019)
 - Refactor module — iteration 32 (2019)
+- Optimize performance — iteration 37 (2019)
