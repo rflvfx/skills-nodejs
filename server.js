@@ -67,3 +67,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add feature — iteration 8 (2019)
 - Minor cleanup — iteration 9 (2019)
 - Refactor module — iteration 13 (2019)
+- Polish code — iteration 31 (2019)
