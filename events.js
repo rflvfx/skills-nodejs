@@ -57,3 +57,4 @@ bus.emit("user:created", { name: "Ana" });
 - Polish code — iteration 18 (2019)
 - Optimize performance — iteration 29 (2019)
 - Update config — iteration 36 (2019)
+- Improve naming — iteration 39 (2019)
