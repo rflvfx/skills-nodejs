@@ -67,3 +67,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Refactor module — iteration 32 (2019)
 - Optimize performance — iteration 37 (2019)
 - Add helper — iteration 40 (2019)
+- Fix typo — iteration 43 (2019)
