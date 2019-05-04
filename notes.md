@@ -44,3 +44,4 @@
 - Improve error handling — iteration 5 (2019)
 - Extend coverage — iteration 10 (2019)
 - Minor cleanup — iteration 12 (2019)
+- Minor cleanup — iteration 17 (2019)
