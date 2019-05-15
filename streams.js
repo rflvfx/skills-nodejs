@@ -68,3 +68,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Optimize performance — iteration 37 (2019)
 - Add helper — iteration 40 (2019)
 - Fix typo — iteration 43 (2019)
+- Extend coverage — iteration 55 (2019)
