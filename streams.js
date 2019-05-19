@@ -63,3 +63,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix typo — iteration 15 (2019)
 - Add validation — iteration 19 (2019)
 - Improve naming — iteration 20 (2019)
+- Improve error handling — iteration 30 (2019)
