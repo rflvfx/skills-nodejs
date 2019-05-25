@@ -62,3 +62,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add tests — iteration 45 (2019)
 - Document usage — iteration 56 (2019)
 - Update config — iteration 57 (2019)
+- Improve error handling — iteration 60 (2019)
