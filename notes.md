@@ -54,3 +54,4 @@
 - Minor cleanup — iteration 41 (2019)
 - Update docs — iteration 42 (2019)
 - Refactor module — iteration 48 (2019)
+- Document usage — iteration 50 (2019)
