@@ -60,3 +60,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Optimize performance — iteration 2 (2019)
 - Add validation — iteration 6 (2019)
 - Add example — iteration 7 (2019)
+- Fix typo — iteration 15 (2019)
