@@ -53,3 +53,4 @@
 - Add helper — iteration 35 (2019)
 - Polish code — iteration 46 (2019)
 - Document usage — iteration 49 (2019)
+- Update config — iteration 59 (2019)
