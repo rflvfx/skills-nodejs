@@ -69,3 +69,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Refactor module — iteration 13 (2019)
 - Polish code — iteration 31 (2019)
 - Fix edge case — iteration 34 (2019)
+- Optimize performance — iteration 47 (2019)
