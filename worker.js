@@ -48,3 +48,4 @@
 - Polish code — iteration 14 (2019)
 - Refactor module — iteration 21 (2019)
 - Improve error handling — iteration 23 (2019)
+- Add validation — iteration 25 (2019)
