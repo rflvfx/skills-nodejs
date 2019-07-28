@@ -51,3 +51,4 @@
 - Polish code — iteration 27 (2019)
 - Fix lint warnings — iteration 33 (2019)
 - Update dependencies — iteration 38 (2019)
+- Minor cleanup — iteration 41 (2019)
