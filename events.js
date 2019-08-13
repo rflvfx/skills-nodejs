@@ -53,3 +53,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add helper — iteration 46 (2018)
 - Tweak implementation — iteration 57 (2018)
 - Update dependencies — iteration 1 (2019)
+- Minor cleanup — iteration 16 (2019)
