@@ -50,3 +50,4 @@
 - Add feature — iteration 26 (2019)
 - Polish code — iteration 27 (2019)
 - Fix lint warnings — iteration 33 (2019)
+- Update dependencies — iteration 38 (2019)
