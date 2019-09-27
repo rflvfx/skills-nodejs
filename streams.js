@@ -66,3 +66,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve error handling — iteration 30 (2019)
 - Refactor module — iteration 32 (2019)
 - Optimize performance — iteration 37 (2019)
+- Add helper — iteration 40 (2019)
