@@ -52,3 +52,4 @@
 - Fix lint warnings — iteration 33 (2019)
 - Update dependencies — iteration 38 (2019)
 - Minor cleanup — iteration 41 (2019)
+- Update docs — iteration 42 (2019)
