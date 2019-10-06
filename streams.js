@@ -59,3 +59,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix typo — iteration 60 (2018)
 - Optimize performance — iteration 2 (2019)
 - Add validation — iteration 6 (2019)
+- Add example — iteration 7 (2019)
