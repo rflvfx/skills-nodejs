@@ -52,3 +52,4 @@
 - Fix edge case — iteration 28 (2019)
 - Add helper — iteration 35 (2019)
 - Polish code — iteration 46 (2019)
+- Document usage — iteration 49 (2019)
