@@ -73,3 +73,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Fix edge case — iteration 51 (2019)
 - Optimize performance — iteration 53 (2019)
 - Add tests — iteration 54 (2019)
+- Document usage — iteration 58 (2019)
