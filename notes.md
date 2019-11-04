@@ -41,3 +41,4 @@
 - Update config — iteration 41 (2018)
 - Improve naming — iteration 45 (2018)
 - Add validation — iteration 58 (2018)
+- Improve error handling — iteration 5 (2019)
