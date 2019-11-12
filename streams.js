@@ -58,3 +58,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 55 (2018)
 - Fix typo — iteration 60 (2018)
 - Optimize performance — iteration 2 (2019)
+- Add validation — iteration 6 (2019)
