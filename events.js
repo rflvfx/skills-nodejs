@@ -58,3 +58,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 29 (2019)
 - Update config — iteration 36 (2019)
 - Improve naming — iteration 39 (2019)
+- Fix lint warnings — iteration 44 (2019)
