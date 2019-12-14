@@ -54,3 +54,4 @@ bus.emit("user:created", { name: "Ana" });
 - Tweak implementation — iteration 57 (2018)
 - Update dependencies — iteration 1 (2019)
 - Minor cleanup — iteration 16 (2019)
+- Polish code — iteration 18 (2019)
