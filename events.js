@@ -70,3 +70,4 @@ bus.emit("user:created", { name: "Ana" });
 - Tweak implementation — iteration 20 (2020)
 - Minor cleanup — iteration 29 (2020)
 - Fix edge case — iteration 31 (2020)
+- Document usage — iteration 32 (2020)
