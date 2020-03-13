@@ -56,3 +56,4 @@
 - Refactor module — iteration 48 (2019)
 - Document usage — iteration 50 (2019)
 - Polish code — iteration 52 (2019)
+- Add feature — iteration 2 (2020)
