@@ -60,3 +60,4 @@
 - Fix typo — iteration 19 (2020)
 - Fix lint warnings — iteration 23 (2020)
 - Add example — iteration 33 (2020)
+- Extend coverage — iteration 35 (2020)
