@@ -64,3 +64,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update config — iteration 57 (2019)
 - Improve error handling — iteration 60 (2019)
 - Update docs — iteration 1 (2020)
+- Extend coverage — iteration 4 (2020)
