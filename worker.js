@@ -55,3 +55,4 @@
 - Document usage — iteration 49 (2019)
 - Update config — iteration 59 (2019)
 - Improve error handling — iteration 7 (2020)
+- Improve error handling — iteration 11 (2020)
