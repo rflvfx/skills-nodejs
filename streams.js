@@ -73,3 +73,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add tests — iteration 21 (2020)
 - Add example — iteration 26 (2020)
 - Update dependencies — iteration 28 (2020)
+- Update docs — iteration 40 (2020)
