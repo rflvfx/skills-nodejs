@@ -62,3 +62,4 @@
 - Add helper — iteration 6 (2020)
 - Optimize performance — iteration 8 (2020)
 - Add helper — iteration 17 (2020)
+- Fix typo — iteration 18 (2020)
