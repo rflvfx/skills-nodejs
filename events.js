@@ -67,3 +67,4 @@ bus.emit("user:created", { name: "Ana" });
 - Extend coverage — iteration 4 (2020)
 - Update config — iteration 10 (2020)
 - Update dependencies — iteration 15 (2020)
+- Tweak implementation — iteration 20 (2020)
