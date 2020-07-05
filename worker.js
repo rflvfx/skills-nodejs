@@ -64,3 +64,4 @@
 - Add tests — iteration 36 (2020)
 - Extend coverage — iteration 42 (2020)
 - Refactor module — iteration 43 (2020)
+- Document usage — iteration 46 (2020)
