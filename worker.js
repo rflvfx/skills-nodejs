@@ -58,3 +58,4 @@
 - Improve error handling — iteration 11 (2020)
 - Fix typo — iteration 12 (2020)
 - Fix typo — iteration 19 (2020)
+- Fix lint warnings — iteration 23 (2020)
