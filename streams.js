@@ -71,3 +71,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Extend coverage — iteration 55 (2019)
 - Update docs — iteration 14 (2020)
 - Add tests — iteration 21 (2020)
+- Add example — iteration 26 (2020)
