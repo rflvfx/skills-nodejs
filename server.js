@@ -80,3 +80,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Extend coverage — iteration 22 (2020)
 - Fix lint warnings — iteration 34 (2020)
 - Update config — iteration 38 (2020)
+- Document usage — iteration 41 (2020)
