@@ -79,3 +79,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Add example — iteration 16 (2020)
 - Extend coverage — iteration 22 (2020)
 - Fix lint warnings — iteration 34 (2020)
+- Update config — iteration 38 (2020)
