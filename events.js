@@ -68,3 +68,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update config — iteration 10 (2020)
 - Update dependencies — iteration 15 (2020)
 - Tweak implementation — iteration 20 (2020)
+- Minor cleanup — iteration 29 (2020)
