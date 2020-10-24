@@ -69,3 +69,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add helper — iteration 40 (2019)
 - Fix typo — iteration 43 (2019)
 - Extend coverage — iteration 55 (2019)
+- Update docs — iteration 14 (2020)
