@@ -65,3 +65,4 @@
 - Fix typo — iteration 18 (2020)
 - Refactor module — iteration 24 (2020)
 - Improve naming — iteration 25 (2020)
+- Minor cleanup — iteration 27 (2020)
