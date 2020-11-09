@@ -63,3 +63,4 @@
 - Optimize performance — iteration 8 (2020)
 - Add helper — iteration 17 (2020)
 - Fix typo — iteration 18 (2020)
+- Refactor module — iteration 24 (2020)
