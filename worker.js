@@ -61,3 +61,4 @@
 - Fix lint warnings — iteration 23 (2020)
 - Add example — iteration 33 (2020)
 - Extend coverage — iteration 35 (2020)
+- Add tests — iteration 36 (2020)
