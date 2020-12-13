@@ -54,3 +54,4 @@
 - Polish code — iteration 46 (2019)
 - Document usage — iteration 49 (2019)
 - Update config — iteration 59 (2019)
+- Improve error handling — iteration 7 (2020)
