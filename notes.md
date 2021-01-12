@@ -74,3 +74,4 @@
 - Document usage — iteration 1 (2021)
 - Optimize performance — iteration 17 (2021)
 - Add helper — iteration 18 (2021)
+- Fix typo — iteration 23 (2021)
