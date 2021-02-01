@@ -79,3 +79,4 @@ bus.emit("user:created", { name: "Ana" });
 - Tweak implementation — iteration 19 (2021)
 - Fix typo — iteration 20 (2021)
 - Document usage — iteration 28 (2021)
+- Add feature — iteration 31 (2021)
