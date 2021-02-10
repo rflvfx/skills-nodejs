@@ -80,3 +80,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add feature — iteration 5 (2021)
 - Fix typo — iteration 6 (2021)
 - Tweak implementation — iteration 7 (2021)
+- Update dependencies — iteration 8 (2021)
