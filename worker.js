@@ -73,3 +73,4 @@
 - Fix typo — iteration 27 (2021)
 - Document usage — iteration 41 (2021)
 - Update dependencies — iteration 42 (2021)
+- Polish code — iteration 43 (2021)
