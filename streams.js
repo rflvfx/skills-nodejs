@@ -81,3 +81,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix typo — iteration 6 (2021)
 - Tweak implementation — iteration 7 (2021)
 - Update dependencies — iteration 8 (2021)
+- Tweak implementation — iteration 9 (2021)
