@@ -79,3 +79,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Optimize performance — iteration 3 (2021)
 - Add feature — iteration 5 (2021)
 - Fix typo — iteration 6 (2021)
+- Tweak implementation — iteration 7 (2021)
