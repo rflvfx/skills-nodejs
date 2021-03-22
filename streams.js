@@ -77,3 +77,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add example — iteration 45 (2020)
 - Improve naming — iteration 55 (2020)
 - Optimize performance — iteration 3 (2021)
+- Add feature — iteration 5 (2021)
