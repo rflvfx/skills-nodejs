@@ -76,3 +76,4 @@
 - Polish code — iteration 43 (2021)
 - Fix typo — iteration 44 (2021)
 - Fix typo — iteration 47 (2021)
+- Improve naming — iteration 56 (2021)
