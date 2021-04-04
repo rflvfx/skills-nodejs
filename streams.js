@@ -89,3 +89,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Optimize performance — iteration 25 (2021)
 - Polish code — iteration 29 (2021)
 - Add helper — iteration 39 (2021)
+- Update docs — iteration 46 (2021)
