@@ -79,3 +79,4 @@
 - Add feature — iteration 30 (2021)
 - Add example — iteration 33 (2021)
 - Update dependencies — iteration 38 (2021)
+- Minor cleanup — iteration 45 (2021)
