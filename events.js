@@ -85,3 +85,4 @@ bus.emit("user:created", { name: "Ana" });
 - Extend coverage — iteration 37 (2021)
 - Add validation — iteration 40 (2021)
 - Improve naming — iteration 49 (2021)
+- Optimize performance — iteration 51 (2021)
