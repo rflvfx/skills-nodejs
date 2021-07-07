@@ -78,3 +78,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Improve naming — iteration 55 (2020)
 - Optimize performance — iteration 3 (2021)
 - Add feature — iteration 5 (2021)
+- Fix typo — iteration 6 (2021)
