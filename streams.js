@@ -82,3 +82,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Tweak implementation — iteration 7 (2021)
 - Update dependencies — iteration 8 (2021)
 - Tweak implementation — iteration 9 (2021)
+- Document usage — iteration 11 (2021)
