@@ -72,3 +72,4 @@
 - Add example — iteration 2 (2021)
 - Fix typo — iteration 27 (2021)
 - Document usage — iteration 41 (2021)
+- Update dependencies — iteration 42 (2021)
