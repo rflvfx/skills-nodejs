@@ -70,3 +70,4 @@
 - Polish code — iteration 58 (2020)
 - Minor cleanup — iteration 60 (2020)
 - Add example — iteration 2 (2021)
+- Fix typo — iteration 27 (2021)
