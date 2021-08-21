@@ -90,3 +90,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Polish code — iteration 29 (2021)
 - Add helper — iteration 39 (2021)
 - Update docs — iteration 46 (2021)
+- Fix typo — iteration 59 (2021)
