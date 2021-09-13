@@ -87,3 +87,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add example — iteration 13 (2021)
 - Refactor module — iteration 16 (2021)
 - Optimize performance — iteration 25 (2021)
+- Polish code — iteration 29 (2021)
