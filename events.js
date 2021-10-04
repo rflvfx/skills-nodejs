@@ -74,3 +74,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 37 (2020)
 - Fix edge case — iteration 51 (2020)
 - Update docs — iteration 53 (2020)
+- Add feature — iteration 4 (2021)
