@@ -71,3 +71,4 @@
 - Minor cleanup — iteration 60 (2020)
 - Add example — iteration 2 (2021)
 - Fix typo — iteration 27 (2021)
+- Document usage — iteration 41 (2021)
