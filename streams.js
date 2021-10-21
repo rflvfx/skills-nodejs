@@ -88,3 +88,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Refactor module — iteration 16 (2021)
 - Optimize performance — iteration 25 (2021)
 - Polish code — iteration 29 (2021)
+- Add helper — iteration 39 (2021)
