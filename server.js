@@ -90,3 +90,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Minor cleanup — iteration 15 (2021)
 - Optimize performance — iteration 21 (2021)
 - Document usage — iteration 22 (2021)
+- Minor cleanup — iteration 24 (2021)
