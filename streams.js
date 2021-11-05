@@ -86,3 +86,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update dependencies — iteration 12 (2021)
 - Add example — iteration 13 (2021)
 - Refactor module — iteration 16 (2021)
+- Optimize performance — iteration 25 (2021)
