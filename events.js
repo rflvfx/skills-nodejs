@@ -76,3 +76,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update docs — iteration 53 (2020)
 - Add feature — iteration 4 (2021)
 - Add feature — iteration 10 (2021)
+- Tweak implementation — iteration 19 (2021)
