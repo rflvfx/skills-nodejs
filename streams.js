@@ -76,3 +76,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update docs — iteration 40 (2020)
 - Add example — iteration 45 (2020)
 - Improve naming — iteration 55 (2020)
+- Optimize performance — iteration 3 (2021)
