@@ -83,3 +83,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update dependencies — iteration 32 (2021)
 - Update config — iteration 35 (2021)
 - Extend coverage — iteration 37 (2021)
+- Add validation — iteration 40 (2021)
