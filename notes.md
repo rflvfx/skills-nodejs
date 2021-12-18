@@ -71,3 +71,4 @@
 - Fix lint warnings — iteration 52 (2020)
 - Add example — iteration 56 (2020)
 - Extend coverage — iteration 59 (2020)
+- Document usage — iteration 1 (2021)
