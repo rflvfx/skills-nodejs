@@ -92,3 +92,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update docs — iteration 46 (2021)
 - Fix typo — iteration 59 (2021)
 - Add validation — iteration 3 (2022)
+- Fix edge case — iteration 4 (2022)
