@@ -94,3 +94,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add validation — iteration 3 (2022)
 - Fix edge case — iteration 4 (2022)
 - Add feature — iteration 5 (2022)
+- Add tests — iteration 8 (2022)
