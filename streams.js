@@ -103,3 +103,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add feature — iteration 43 (2022)
 - Document usage — iteration 47 (2022)
 - Add tests — iteration 48 (2022)
+- Update config — iteration 50 (2022)
