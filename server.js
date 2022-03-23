@@ -105,3 +105,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Fix typo — iteration 33 (2022)
 - Improve error handling — iteration 36 (2022)
 - Update config — iteration 37 (2022)
+- Document usage — iteration 41 (2022)
