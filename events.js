@@ -99,3 +99,4 @@ bus.emit("user:created", { name: "Ana" });
 - Improve naming — iteration 44 (2022)
 - Add example — iteration 46 (2022)
 - Add example — iteration 54 (2022)
+- Optimize performance — iteration 57 (2022)
