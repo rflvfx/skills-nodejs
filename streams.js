@@ -98,3 +98,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add helper — iteration 13 (2022)
 - Update docs — iteration 16 (2022)
 - Add tests — iteration 27 (2022)
+- Add feature — iteration 32 (2022)
