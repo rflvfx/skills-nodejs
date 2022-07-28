@@ -89,3 +89,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add tests — iteration 1 (2022)
 - Add feature — iteration 2 (2022)
 - Fix lint warnings — iteration 14 (2022)
+- Improve error handling — iteration 15 (2022)
