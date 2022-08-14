@@ -83,3 +83,4 @@
 - Extend coverage — iteration 7 (2022)
 - Add tests — iteration 12 (2022)
 - Fix edge case — iteration 17 (2022)
+- Update config — iteration 18 (2022)
