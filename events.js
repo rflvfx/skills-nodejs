@@ -88,3 +88,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 51 (2021)
 - Add tests — iteration 1 (2022)
 - Add feature — iteration 2 (2022)
+- Fix lint warnings — iteration 14 (2022)
