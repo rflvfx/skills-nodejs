@@ -105,3 +105,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add tests — iteration 48 (2022)
 - Update config — iteration 50 (2022)
 - Update config — iteration 52 (2022)
+- Fix edge case — iteration 53 (2022)
