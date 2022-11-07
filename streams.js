@@ -95,3 +95,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix edge case — iteration 4 (2022)
 - Add feature — iteration 5 (2022)
 - Add tests — iteration 8 (2022)
+- Add helper — iteration 13 (2022)
