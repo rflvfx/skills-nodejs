@@ -93,3 +93,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add example — iteration 19 (2022)
 - Minor cleanup — iteration 20 (2022)
 - Polish code — iteration 30 (2022)
+- Optimize performance — iteration 31 (2022)
