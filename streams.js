@@ -101,3 +101,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add feature — iteration 32 (2022)
 - Refactor module — iteration 42 (2022)
 - Add feature — iteration 43 (2022)
+- Document usage — iteration 47 (2022)
