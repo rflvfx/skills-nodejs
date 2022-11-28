@@ -86,3 +86,4 @@
 - Improve naming — iteration 10 (2022)
 - Minor cleanup — iteration 23 (2022)
 - Add example — iteration 24 (2022)
+- Document usage — iteration 25 (2022)
