@@ -109,3 +109,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix lint warnings — iteration 55 (2022)
 - Add helper — iteration 58 (2022)
 - Update config — iteration 1 (2023)
+- Add tests — iteration 9 (2023)
