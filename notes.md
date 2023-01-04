@@ -95,3 +95,4 @@
 - Fix edge case — iteration 10 (2023)
 - Update dependencies — iteration 28 (2023)
 - Extend coverage — iteration 33 (2023)
+- Improve naming — iteration 43 (2023)
