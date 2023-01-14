@@ -113,3 +113,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Polish code — iteration 12 (2023)
 - Add feature — iteration 21 (2023)
 - Improve naming — iteration 31 (2023)
+- Add helper — iteration 38 (2023)
