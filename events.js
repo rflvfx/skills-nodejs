@@ -108,3 +108,4 @@ bus.emit("user:created", { name: "Ana" });
 - Refactor module — iteration 15 (2023)
 - Minor cleanup — iteration 19 (2023)
 - Add validation — iteration 26 (2023)
+- Add tests — iteration 27 (2023)
