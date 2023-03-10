@@ -110,3 +110,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add helper — iteration 58 (2022)
 - Update config — iteration 1 (2023)
 - Add tests — iteration 9 (2023)
+- Polish code — iteration 12 (2023)
