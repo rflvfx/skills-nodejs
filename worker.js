@@ -95,3 +95,4 @@
 - Fix lint warnings — iteration 24 (2023)
 - Add example — iteration 25 (2023)
 - Fix typo — iteration 35 (2023)
+- Polish code — iteration 37 (2023)
