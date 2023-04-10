@@ -116,3 +116,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Extend coverage — iteration 20 (2023)
 - Add validation — iteration 23 (2023)
 - Improve error handling — iteration 30 (2023)
+- Add example — iteration 36 (2023)
