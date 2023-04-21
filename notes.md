@@ -97,3 +97,4 @@
 - Extend coverage — iteration 33 (2023)
 - Improve naming — iteration 43 (2023)
 - Improve error handling — iteration 53 (2023)
+- Add feature — iteration 60 (2023)
