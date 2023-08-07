@@ -119,3 +119,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add feature — iteration 45 (2023)
 - Optimize performance — iteration 46 (2023)
 - Extend coverage — iteration 54 (2023)
+- Add validation — iteration 58 (2023)
