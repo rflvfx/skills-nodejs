@@ -92,3 +92,4 @@
 - Update config — iteration 45 (2022)
 - Document usage — iteration 49 (2022)
 - Add example — iteration 7 (2023)
+- Fix edge case — iteration 10 (2023)
