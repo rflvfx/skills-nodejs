@@ -112,3 +112,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add tests — iteration 9 (2023)
 - Polish code — iteration 12 (2023)
 - Add feature — iteration 21 (2023)
+- Improve naming — iteration 31 (2023)
