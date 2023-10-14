@@ -114,3 +114,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add feature — iteration 21 (2023)
 - Improve naming — iteration 31 (2023)
 - Add helper — iteration 38 (2023)
+- Improve error handling — iteration 41 (2023)
