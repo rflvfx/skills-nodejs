@@ -103,3 +103,4 @@ bus.emit("user:created", { name: "Ana" });
 - Improve error handling — iteration 59 (2022)
 - Add helper — iteration 3 (2023)
 - Fix edge case — iteration 4 (2023)
+- Optimize performance — iteration 8 (2023)
