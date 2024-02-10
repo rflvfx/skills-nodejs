@@ -101,3 +101,4 @@
 - Add example — iteration 49 (2023)
 - Update docs — iteration 1 (2024)
 - Fix typo — iteration 3 (2024)
+- Document usage — iteration 8 (2024)
