@@ -118,3 +118,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add feature — iteration 51 (2023)
 - Fix edge case — iteration 59 (2023)
 - Extend coverage — iteration 5 (2024)
+- Add example — iteration 13 (2024)
