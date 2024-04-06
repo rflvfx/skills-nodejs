@@ -102,3 +102,4 @@
 - Add validation — iteration 6 (2024)
 - Update docs — iteration 14 (2024)
 - Add example — iteration 16 (2024)
+- Polish code — iteration 17 (2024)
