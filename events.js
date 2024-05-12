@@ -126,3 +126,4 @@ bus.emit("user:created", { name: "Ana" });
 - Refactor module — iteration 38 (2024)
 - Extend coverage — iteration 41 (2024)
 - Update config — iteration 49 (2024)
+- Add helper — iteration 50 (2024)
