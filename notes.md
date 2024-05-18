@@ -110,3 +110,4 @@
 - Add validation — iteration 32 (2024)
 - Fix lint warnings — iteration 43 (2024)
 - Optimize performance — iteration 46 (2024)
+- Document usage — iteration 52 (2024)
