@@ -104,3 +104,4 @@
 - Add example — iteration 16 (2024)
 - Polish code — iteration 17 (2024)
 - Add example — iteration 21 (2024)
+- Fix edge case — iteration 23 (2024)
