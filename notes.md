@@ -100,3 +100,4 @@
 - Add feature — iteration 60 (2023)
 - Optimize performance — iteration 2 (2024)
 - Add validation — iteration 6 (2024)
+- Update docs — iteration 14 (2024)
