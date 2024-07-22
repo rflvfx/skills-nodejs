@@ -121,3 +121,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add example — iteration 13 (2024)
 - Fix lint warnings — iteration 19 (2024)
 - Improve naming — iteration 26 (2024)
+- Improve error handling — iteration 27 (2024)
