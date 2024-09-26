@@ -100,3 +100,4 @@
 - Update config — iteration 47 (2023)
 - Add example — iteration 49 (2023)
 - Update docs — iteration 1 (2024)
+- Fix typo — iteration 3 (2024)
