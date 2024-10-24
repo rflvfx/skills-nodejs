@@ -128,3 +128,4 @@ server.listen(3000, () => console.log("listening :3000"));
 - Document usage — iteration 24 (2024)
 - Polish code — iteration 33 (2024)
 - Fix edge case — iteration 42 (2024)
+- Tweak implementation — iteration 47 (2024)
