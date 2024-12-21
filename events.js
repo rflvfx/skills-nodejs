@@ -124,3 +124,4 @@ bus.emit("user:created", { name: "Ana" });
 - Improve error handling — iteration 27 (2024)
 - Minor cleanup — iteration 30 (2024)
 - Refactor module — iteration 38 (2024)
+- Extend coverage — iteration 41 (2024)
