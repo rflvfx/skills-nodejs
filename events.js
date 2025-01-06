@@ -132,3 +132,4 @@ bus.emit("user:created", { name: "Ana" });
 - Document usage — iteration 5 (2025)
 - Update dependencies — iteration 14 (2025)
 - Add feature — iteration 15 (2025)
+- Optimize performance — iteration 16 (2025)
