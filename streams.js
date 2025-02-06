@@ -133,3 +133,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Tweak implementation — iteration 58 (2024)
 - Improve error handling — iteration 1 (2025)
 - Fix typo — iteration 2 (2025)
+- Add helper — iteration 3 (2025)
