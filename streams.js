@@ -140,3 +140,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Fix typo — iteration 26 (2025)
 - Update config — iteration 31 (2025)
 - Optimize performance — iteration 35 (2025)
+- Document usage — iteration 47 (2025)
