@@ -132,3 +132,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Polish code — iteration 40 (2024)
 - Tweak implementation — iteration 58 (2024)
 - Improve error handling — iteration 1 (2025)
+- Fix typo — iteration 2 (2025)
