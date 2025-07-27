@@ -131,3 +131,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add helper — iteration 39 (2024)
 - Polish code — iteration 40 (2024)
 - Tweak implementation — iteration 58 (2024)
+- Improve error handling — iteration 1 (2025)
