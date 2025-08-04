@@ -113,3 +113,4 @@
 - Document usage — iteration 52 (2024)
 - Improve naming — iteration 53 (2024)
 - Polish code — iteration 56 (2024)
+- Fix typo — iteration 12 (2025)
