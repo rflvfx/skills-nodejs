@@ -137,3 +137,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Add example — iteration 4 (2025)
 - Fix lint warnings — iteration 11 (2025)
 - Minor cleanup — iteration 22 (2025)
+- Fix typo — iteration 26 (2025)
