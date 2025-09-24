@@ -131,3 +131,4 @@ bus.emit("user:created", { name: "Ana" });
 - Polish code — iteration 60 (2024)
 - Document usage — iteration 5 (2025)
 - Update dependencies — iteration 14 (2025)
+- Add feature — iteration 15 (2025)
