@@ -133,3 +133,4 @@ bus.emit("user:created", { name: "Ana" });
 - Update dependencies — iteration 14 (2025)
 - Add feature — iteration 15 (2025)
 - Optimize performance — iteration 16 (2025)
+- Fix edge case — iteration 17 (2025)
