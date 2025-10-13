@@ -124,3 +124,4 @@
 - Update dependencies — iteration 42 (2025)
 - Improve naming — iteration 45 (2025)
 - Update docs — iteration 50 (2025)
+- Add validation — iteration 52 (2025)
