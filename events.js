@@ -129,3 +129,4 @@ bus.emit("user:created", { name: "Ana" });
 - Add helper — iteration 50 (2024)
 - Add helper — iteration 55 (2024)
 - Polish code — iteration 60 (2024)
+- Document usage — iteration 5 (2025)
