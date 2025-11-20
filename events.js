@@ -138,3 +138,4 @@ bus.emit("user:created", { name: "Ana" });
 - Document usage — iteration 25 (2025)
 - Polish code — iteration 27 (2025)
 - Improve error handling — iteration 33 (2025)
+- Update config — iteration 36 (2025)
