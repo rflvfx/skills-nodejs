@@ -119,3 +119,4 @@
 - Fix edge case — iteration 21 (2025)
 - Improve naming — iteration 29 (2025)
 - Refactor module — iteration 32 (2025)
+- Add helper — iteration 38 (2025)
