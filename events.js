@@ -135,3 +135,4 @@ bus.emit("user:created", { name: "Ana" });
 - Optimize performance — iteration 16 (2025)
 - Fix edge case — iteration 17 (2025)
 - Add example — iteration 23 (2025)
+- Document usage — iteration 25 (2025)
