@@ -122,3 +122,4 @@
 - Add helper — iteration 38 (2025)
 - Fix typo — iteration 41 (2025)
 - Update dependencies — iteration 42 (2025)
+- Improve naming — iteration 45 (2025)
