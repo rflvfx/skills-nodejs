@@ -142,3 +142,4 @@
 - Add tests — iteration 44 (2026)
 - Polish code — iteration 49 (2026)
 - Fix edge case — iteration 53 (2026)
+- Add helper — iteration 58 (2026)
