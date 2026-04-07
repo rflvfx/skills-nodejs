@@ -151,3 +151,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Tweak implementation — iteration 16 (2026)
 - Polish code — iteration 18 (2026)
 - Extend coverage — iteration 19 (2026)
+- Minor cleanup — iteration 23 (2026)
