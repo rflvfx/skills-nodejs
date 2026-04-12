@@ -130,3 +130,4 @@
 - Document usage — iteration 2 (2026)
 - Add example — iteration 4 (2026)
 - Improve naming — iteration 8 (2026)
+- Polish code — iteration 10 (2026)
