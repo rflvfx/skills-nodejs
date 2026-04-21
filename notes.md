@@ -134,3 +134,4 @@
 - Minor cleanup — iteration 22 (2026)
 - Improve error handling — iteration 28 (2026)
 - Extend coverage — iteration 29 (2026)
+- Add tests — iteration 32 (2026)
