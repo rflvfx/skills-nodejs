@@ -133,3 +133,4 @@
 - Polish code — iteration 10 (2026)
 - Minor cleanup — iteration 22 (2026)
 - Improve error handling — iteration 28 (2026)
+- Extend coverage — iteration 29 (2026)
