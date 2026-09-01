@@ -132,3 +132,4 @@
 - Improve naming — iteration 8 (2026)
 - Polish code — iteration 10 (2026)
 - Minor cleanup — iteration 22 (2026)
+- Improve error handling — iteration 28 (2026)
