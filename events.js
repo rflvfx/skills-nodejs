@@ -149,3 +149,4 @@ bus.emit("user:created", { name: "Ana" });
 - Fix edge case — iteration 13 (2026)
 - Extend coverage — iteration 14 (2026)
 - Fix typo — iteration 21 (2026)
+- Polish code — iteration 25 (2026)
