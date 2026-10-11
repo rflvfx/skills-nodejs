@@ -131,3 +131,4 @@
 - Polish code — iteration 31 (2026)
 - Optimize performance — iteration 39 (2026)
 - Improve naming — iteration 45 (2026)
+- Add helper — iteration 48 (2026)
