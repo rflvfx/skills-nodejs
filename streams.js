@@ -155,3 +155,4 @@ process.stdin.pipe(upper).pipe(process.stdout);
 - Update dependencies — iteration 24 (2026)
 - Polish code — iteration 26 (2026)
 - Optimize performance — iteration 40 (2026)
+- Add helper — iteration 43 (2026)
