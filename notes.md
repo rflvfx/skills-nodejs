@@ -129,3 +129,4 @@
 - Add example — iteration 59 (2025)
 - Document usage — iteration 2 (2026)
 - Add example — iteration 4 (2026)
+- Improve naming — iteration 8 (2026)
